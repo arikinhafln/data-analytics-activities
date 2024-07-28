@@ -1,2 +1,2 @@
-# data-analitics-activities
+# data-analytics-activities
 WoMakers
